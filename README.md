@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kirilovich-vlad/MyTourMaker/main/Resources/logo.png" alt="project logo" width=15% height=15%>
+</p>
+
 # About MyTourMaker
 MyTourMaker is a program for planning tours, visiting attractions and learning about surroundings in a more convenient way. 
 
@@ -31,7 +35,7 @@ Nominatim API finds locations on Earth by their name and/or address. I used OSMP
 # Execution
 In order to execute MyTourMaker, "Resources" subdirectory and "settings.json" file both have to be in the same directory as source code/executable file of MyTourMaker. 
 
-Here you can download an executable for x86 Windows systems: https://drive.google.com/drive/folders/1UOuvpxNFq8haI-Hrqq-XD8r5ktCujJrM?usp=sharing .
+You can download an executable for x86 Windows systems [here](https://drive.google.com/drive/folders/1UOuvpxNFq8haI-Hrqq-XD8r5ktCujJrM?usp=sharing).
 
 Using the link above, you can download and launch the program without worrying about the dependencies. MyTourMaker works well on Windows 8, 8.1, 10, 11.
 
